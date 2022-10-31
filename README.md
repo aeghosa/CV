@@ -70,7 +70,7 @@ As ...
 
 
 <div align="center">
-  <a href="https://youtu.be/MnX0ePaLG-I?t=888"> <img src="https://i.imgur.com/BBvh9uF.png" width="650"> </a>
+  <a href="youtube link"> <img src="png image" width="650"> </a>
 </div>
 
 
