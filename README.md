@@ -163,9 +163,9 @@ Helped curate online resource platform from early stage
 
 ## <a name="interests">When I'm not coding (Interests)</a>
 
-- 🚴
-- ⚽
-- 🎮
-- ⚡
-- 
+- 🚴Participated in the Ride London-Essex 100 on 29 May 2022
+- ⚽ Captained Averley FC and Romford FC at Semi Professional Level
+- 🎮 Ranked 187 Global on Playstation Fifa Rankings in 2020
+- ⚡ Religious Arsenal supporter since 1996
+- 🎭 Talent scout for Forte Sports Agency and the Curtis Brown Group
 
