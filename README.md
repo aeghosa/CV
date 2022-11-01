@@ -130,6 +130,8 @@ Full-time software development course focusing on:
 - Web frameworks, version control, and CI/CD to create full stack web apps
 - Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
+Modules of relevance: 
+- Software Fundamentals: Test-Driven Development and Object Oriented Programming, Web and Data Persistence, JavaScript, Front-end Development
 
 #### [University of Warwick](https://warwick.ac.uk/) (September 2005 to July 2007)
 
