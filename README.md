@@ -156,7 +156,7 @@ Modules of relevance:
 - Received an award for increasing efficiency in a major internal project
 
 
-**[Global Health Jobs] (https://globalhealthjobs.com/)** (September 2011 to June 2012)   
+**[Global Health Jobs](https://globalhealthjobs.com/)** (September 2011 to June 2012)   
 *Junior Product Manager*
  
 Helped curate online resource platform from early stage       
