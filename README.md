@@ -156,10 +156,14 @@ Modules of relevance:
 - Received an award for increasing efficiency in a major internal project
 
 
-**Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
-*English Teacher* ([TEFL](https://www.tefl.org/?gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIaunF07n9YQi9JDwuiLvTqio0kzoNpbbepXTKoCTBY-sgpXVema4EQaAtjeEALw_wcB) certified)  
-- Teaching English as a foreign language to classes of middle school students as a representative of the [British Council](https://www.britishcouncil.org/), as well as tutoring working professionals
-- Received ‘Exceptional performance’ award
+**Global Health Jobs (GHJ)** (September 2011 to June 2012)   
+*Junior Product Manager* (](https://globalhealthjobs.com/)) 
+ 
+Helped curate online resource platform from early stage       
+        
+- Built front end interactive website using HTML & CSS attracting 250 more daily active users
+- Improved engagement in discipline meetings by standardizing format to ensure consistent inclusion of all sub-teams.
+
 
 ## <a name="interests">When I'm not coding (Interests)</a>
 
