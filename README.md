@@ -25,6 +25,10 @@ Having previously venture into Law and Development, no other career could quite 
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         </a>
+        <!-- Python -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        </a>
         <!-- CSS  -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
