@@ -149,12 +149,11 @@ Modules of relevance:
 *Volunteer Software Developer*
 - Creating web pages using React and Typescript for their online platform ([medline.io](http://www.medline.io/)) as part of the in-progress ‘[Fight Covid-19](https://www.donatecode.com/project/fight-covid-19-platform-connecting-medical-supply-needs-with-suppliers/)’ project.
 
-**[Brit Insurance](https://www.britinsurance.com/)** (August 2016 to January 2020)    
-*Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
-- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Testing pricing assumptions and investment risk scenarios via analytical software models
-- Received an award for increasing efficiency in a major internal project
-
+**[Lloyds Banking group](https://www.unaids.org/en)** (August 2016 to January 2020)    
+*Technology Risk Associate*  
+- Scoped and implemented Cloud Control Framework(LCCF) controls leading 62% increase in effective controls
+- Provided Assurance that internal projects safely tested correctly via Jest and signed off via Jira
+- Scoping and planning Cyber Control Testing activities resulting in reduced ineffective controls by 87%
 
 **[Global Health Jobs](https://globalhealthjobs.com/)** (September 2011 to June 2012)   
 *Junior Product Manager*
