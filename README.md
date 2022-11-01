@@ -97,27 +97,21 @@ Having previously venture into Law and Development, no other career could quite 
 | [P](https:) |  |  | JavaScript, React, HTML, CSS, Netlify |
 | [C](https:) |  |  | Ruby, RSpec |
 
-For more, please see my [GitHub repo list](https://github.com/jasylwong?tab=repositories).
+For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=repositories).
 
 ## <a name="skills">What I bring to the table (Skills) 👏</a>
 
 #### Excellent communicator, presenter, and mentor ####
-- Provided training to colleagues on exposure management via presentations at Brit Insurance.
-- Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service.
-- Selected to be the mentor for incoming employees/students at Mercer and Makers, and tutored beginner coders via the Makers PairUp platform.
+- 
 
 #### Self-reliant individual and significantly contributory team member ####
-- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single-handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
-- As the swimming captain, led the school swimming team to several victories at local galas.
+- 
 
 #### Fast learner, effective timekeeping skills, and experienced project management ####
-- Deployed multiple webpages for medline.io's coding project using React and TypeScript within a few weeks, having next to no prior knowledge of either tech
-- Had to balance both full-time work and self-study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/).
-- Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors and C-Suite managers.
+- 
 
 #### Highly analytical thinker and innovative problem solver ####
-- Produced summaries of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
-- As the Librarian of the University Big Band Society, introduced a new folder system that significantly reduced the time needed to organise and locate music sheets, and is still being used today.
+- 
 
 ## <a name="education">Where I've been learning (Education) 📖</a>
 
@@ -145,7 +139,7 @@ Modules of relevance:
 
 ## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
 
-**[Lloyds Banking group](https://www.unaids.org/en)** (August 2016 to January 2020)    
+**[Lloyds Banking Group](https://www.unaids.org/en)** (August 2016 to January 2020)    
 *Technology Risk Associate*  
 - Scoped and implemented Cloud Control Framework(LCCF) controls leading 62% increase in effective controls
 - Provided Assurance that internal projects safely tested correctly via Jest and signed off via Jira
