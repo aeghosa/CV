@@ -8,7 +8,7 @@
 
 </div>
 
-## <a name="about_me">Who am I?:neckbeard: </a>
+## <a name="about_me">Who am I?🐺</a>
 
 Naval Ravikant once said " No one can compete with you on being you." Unashamably I am an energetic, inquisitive ball of enthusiasm that is on a quest to continue to improve, fail onlong the way but learn from those failures. My journey as a solftware engineer has shown me there is a right way to fail. 
 
