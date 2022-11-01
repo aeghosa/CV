@@ -163,9 +163,6 @@ Modules of relevance:
 
 ## <a name="interests">When I'm not coding (Interests)</a>
 
-- 💻 **Getting involved in the tech scene**: Writing [tech blogs](https://medium.com/@jasylwong) and attending events in a variety of tech groups and meetups, eg. [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/), [LRUG](http://lrug.org/), [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/) 
-- 🎹 **Music:** Ex-professional (self-taught) bassist, grade 6 pianist, and University of Warwick Big Band Treasurer (previously Librarian)
-- 📚 **Reading:** Just finished [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO), and [The Sandman: Preludes & Nocturnes](https://www.amazon.co.uk/Sandman-Preludes-Nocturnes-Vol/dp/1852863269). 10/10 would recommend both.
-- 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher
-- ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)
-- ✏️ **Drawing:** Graphic novel enthusiast, and [casual sketcher](https://www.instagram.com/p/BqIzOWugZ32/)
+- 🚴
+- ![image](https://user-images.githubusercontent.com/103061130/199281137-0e091407-2d1d-4cf6-8475-59183ced1dad.png)
+
