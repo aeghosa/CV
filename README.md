@@ -1,7 +1,6 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
 -------
-
 #
 
 [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
