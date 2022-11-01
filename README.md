@@ -16,13 +16,71 @@ Having previously venture into Law and Development, no other career could quite 
 
 
 ## <a name="tech-stack">Tech stack 🤖</a> 
-- JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, Jasmine)
-- Ruby (Rails, Sinatra, RSpec, Capybara) 
-- SQL (PostgreSQL, TablePlus)
-- HTML, CSS (Bootstrap, Material-UI, Materialize)
-- Travis CI, CircleCI, Code Climate
-- Heroku, Netlify
-- Git, GitHub (including Pages and Actions), GitLab, Firebase
+### 💻 Programming and markup languages
+
+
+<p align="center">
+        </a>
+        <!-- HTML -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+        </a>
+        <!-- Ruby -->
+        <a href="https://github.com/aeghosa?tab=repositoriess" target="_blank"><img alt="Ruby"
+                        src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+        </a>
+        <!-- Node -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Node.js"
+                        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        </a>
+        <!-- SQL -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="SQL"
+                        src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
+        </a>
+  </p>
+  
+  ### 🧰 Frameworks and libraries
+  
+
+<p align="center">
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+</p>
+
+
+### 🗄️ Databases and cloud hosting
+
+
+<p align="center">
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+
+<p align="center">
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub_Desktop-2088FF?style=for-the-badge&logo=github-Desktop&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="#"><img alt="Studio Cide" src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+</p>
+
 
 ## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
 
