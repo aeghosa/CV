@@ -145,10 +145,6 @@ Modules of relevance:
 
 ## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
 
-**[Medline.io](https://www.medline.io)** (April 2020 to May 2020)    
-*Volunteer Software Developer*
-- Creating web pages using React and Typescript for their online platform ([medline.io](http://www.medline.io/)) as part of the in-progress ‘[Fight Covid-19](https://www.donatecode.com/project/fight-covid-19-platform-connecting-medical-supply-needs-with-suppliers/)’ project.
-
 **[Lloyds Banking group](https://www.unaids.org/en)** (August 2016 to January 2020)    
 *Technology Risk Associate*  
 - Scoped and implemented Cloud Control Framework(LCCF) controls leading 62% increase in effective controls
