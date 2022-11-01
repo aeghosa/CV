@@ -121,12 +121,8 @@ For more, please see my [GitHub repo list](https://github.com/jasylwong?tab=repo
 
 ## <a name="education">Where I've been learning (Education) 📖</a>
 
-#### [University of Helsinki](https://www.helsinki.fi/en) (May 2020 to present)
-- Full Stack Open web development qualification. Current certificate [here](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/994a1f64471fc5fa33204f9fb4b777ef).
-- Areas covered include React, Redux, Express, Node.js, MongoDB, REST APIs, GraphQL, Jest, and TypeScript.
 
-
-#### [Makers Academy](https://makers.tech/) (January to April 2020)
+#### [Makers Academy](https://makers.tech/) (May to Sep 2022)
 
 Full-time software development course focusing on:	
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
@@ -135,15 +131,15 @@ Full-time software development course focusing on:
 - Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
 
-#### [University of Warwick](https://warwick.ac.uk/) (September 2007 to July 2011)
+#### [University of Warwick](https://warwick.ac.uk/) (September 2005 to July 2007)
 
-- [MMORSE](https://warwick.ac.uk/study/undergraduate/courses-2020/mmorse/) (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
-- Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
+- [International Development Law](https://warwick.ac.uk/study/postgraduate/courses/internationaldevelopment/) (Master's in International Development with Computer Science Modula) (2:1)
+- Dissertation: Integration of Computer Enhancement in the Global South (1st)
+- Scholarship holder (Achieved Full LLM Scholarship
 
-#### [Bancroft's School](https://www.bancrofts.org/) (1996 to 2007)
+Modules of relevance: 
+- abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 
-- Scholarship holder
-- 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics, and Biology)
 
 ## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
 
