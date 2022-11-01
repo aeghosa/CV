@@ -1,6 +1,5 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
-About me
 -------
 
 #
