@@ -133,9 +133,9 @@ Full-time software development course focusing on:
 
 #### [University of Warwick](https://warwick.ac.uk/) (September 2005 to July 2007)
 
-- [International Development Law](https://warwick.ac.uk/study/postgraduate/courses/internationaldevelopment/) (Master's in International Development with Computer Science Modula) (2:1)
+- [International Development](https://warwick.ac.uk/study/postgraduate/courses/internationaldevelopment/) (Master's in International Development with Computer Science Modula) (2:1)
 - Dissertation: Integration of Computer Enhancement in the Global South (1st)
-- Scholarship holder (Achieved Full LLM Scholarship
+- Scholarship holder (Achieved Full LLM Scholarship)
 
 Modules of relevance: 
 - abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
