@@ -91,8 +91,8 @@ Having previously venture into Law and Development, no other career could quite 
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
-| [WePick](https://github.com/jasylwong/wepick) | I pick. You pick. **WePick**. A web app for helping you select movies to watch with friends. | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS, Heroku |
-| [Radio-active](https://github.com/jasylwong/radio-active) | Ready for some nuclear tunes? Immediate music from Absolute radio stations, without all the clicking, searching, waiting and cookie/privacy settings required on their official website. | https://jasylwong.github.io/radio-active/ | JavaScript, React, GitHub Pages & Actions, Absolute radio API, Water.css |
+| [W](https:) |  | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS, Heroku |
+| [R](https:) |  | https://jasylwong.github.io/radio-active/ | JavaScript, React, GitHub Pages & Actions, Absolute radio API, Water.css |
 | [Full Stack Open notes app](https://github.com/jasylwong/full_stack_open) | A full stack MERN notes app built as part of the University of Helsinki Web Development qualification. | https://notes-app-fso.herokuapp.com/ | JavaScript, React, Express, Node.js, Jest, MongoDB, Heroku |
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React. | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS, Netlify |
 | [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional reviewers from CoGrammar. | Example recording: https://www.youtube.com/watch?v=Fehc2HlOc6M&feature=youtu.be | Ruby, RSpec |
