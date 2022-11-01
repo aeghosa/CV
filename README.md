@@ -4,7 +4,7 @@
 
 # <p align="center">
      </a>
-       <a[About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |   [Interests](#interests)
+       <a[About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests)>
  </p>
  
   
