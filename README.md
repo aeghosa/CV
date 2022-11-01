@@ -139,13 +139,13 @@ Modules of relevance:
 
 ## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
 
-**[Lloyds Banking Group](https://www.unaids.org/en)** (August 2016 to January 2020)    
+**[Lloyds Banking Group](https://www.unaids.org/en)** (Nov 2019 to January 2021)    
 *Technology Risk Associate*  
 - Scoped and implemented Cloud Control Framework(LCCF) controls leading 62% increase in effective controls
 - Provided Assurance that internal projects safely tested correctly via Jest and signed off via Jira
 - Scoping and planning Cyber Control Testing activities resulting in reduced ineffective controls by 87%
 
-**[Global Health Jobs](https://globalhealthjobs.com/)** (September 2011 to June 2012)   
+**[Global Health Jobs](https://globalhealthjobs.com/)** (Jul 2017 to Oct 2019)   
 *Junior Product Manager*
  
 Helped curate online resource platform from early stage       
