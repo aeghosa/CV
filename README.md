@@ -1,6 +1,6 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
-# align="center"> “...Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz (1986 ~ 2013)</h1>
+## <align="center"> “...Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz (1986 ~ 2013)</a>
 -------
 #
 
