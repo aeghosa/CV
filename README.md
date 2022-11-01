@@ -1,6 +1,6 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
-## <a align="center"> “A problem isn’t truly solved until it’s solved for all..”😉</a>
+## <h2 align="center"> “A problem isn’t truly solved until it’s solved for all..”😉</h2>
 
 #
 
