@@ -3,7 +3,7 @@
 ## <h2 align="center"> “A problem isn’t truly solved until it’s solved for all..”😉</h2>
 
 #
-<p align="center [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+<p align="center [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)</a>
 
 </div>
 
