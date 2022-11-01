@@ -159,10 +159,10 @@ Helped curate online resource platform from early stage
 - Built front end interactive website using HTML & CSS attracting 250 more daily active users
 - Improved engagement in discipline meetings by standardizing format to ensure consistent inclusion of all sub-teams.
         
-**[United Nations, World Health Organisation](https://www.who.int/)** (September 2011 to June 2012)   
+**[United Nations, World Health Organisation](https://www.who.int/)** (Feb 2016 to June 2016)   
 *Associate Inten*
         
-**[United Nations, UNAIDS](https://www.unaids.org/en)** (September 2011 to June 2012)   
+**[United Nations, UNAIDS](https://www.unaids.org/en)** (Jul 2016 to Dec 2016)   
 *Associate Inten*
  
 
