@@ -10,11 +10,10 @@
 
 ## <a name="about_me">About me (in a nutshell) 😄</a>
 
-A proactive, dynamic, and creative **Full Stack Software Developer** by day. A music, [film](https://github.com/jasylwong/wepick) and pizza aficionado by night.
+Naval Ravikant once said " No one can compete with you on being you." Unashamably I am an energetic, inquisitive ball of enthusiasm that is on a quest to continue to improve, fail onlong the way but learn from those failures. My journey as a solftware engineer has shown me there is a right way to fail. 
 
-Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and having a high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection, and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. 
+Having previously venture into Law and Development, no other career could quite satisfy my urge to learn than the software engineering space.
 
-I would like to work at a company that also shares my goal of moving the world forward and creating real, tangible benefits for society. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and rapidly developing tech skills to help them achieve this. 
 
 ## <a name="tech-stack">Tech stack 🤖</a> 
 - JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, Jasmine)
