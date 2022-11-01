@@ -91,11 +91,11 @@ Having previously venture into Law and Development, no other career could quite 
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
-| [W](https:) |  | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS, Heroku |
-| [R](https:) |  | https://jasylwong.github.io/radio-active/ | JavaScript, React, GitHub Pages & Actions, Absolute radio API, Water.css |
-| [Full Stack Open notes app](https://github.com/jasylwong/full_stack_open) | A full stack MERN notes app built as part of the University of Helsinki Web Development qualification. | https://notes-app-fso.herokuapp.com/ | JavaScript, React, Express, Node.js, Jest, MongoDB, Heroku |
-| [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React. | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS, Netlify |
-| [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional reviewers from CoGrammar. | Example recording: https://www.youtube.com/watch?v=Fehc2HlOc6M&feature=youtu.be | Ruby, RSpec |
+| [W](https:) |  |  | Ruby, Rails, HTML, CSS, Heroku |
+| [R](https:) |  |  | JavaScript, React, GitHub Pages & Actions, Absolute radio API, Water.css |
+| [F](https:) |  |  | JavaScript, React, Express, Node.js, Jest, MongoDB, Heroku |
+| [P](https:) |  |  | JavaScript, React, HTML, CSS, Netlify |
+| [C](https:) |  |  | Ruby, RSpec |
 
 For more, please see my [GitHub repo list](https://github.com/jasylwong?tab=repositories).
 
