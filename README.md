@@ -1,6 +1,6 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
-## <h2 align="center"> “A problem isn’t truly solved until it’s solved for all..”##😉</h2>
+## <h2 align="center"> “A problem isn’t truly solved until it’s solved for all..”😉</h2> ##
 
 #
  [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
