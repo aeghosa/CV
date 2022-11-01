@@ -101,12 +101,12 @@ For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=reposi
 
 ## <a name="skills">What I bring to the table (Skills) 👏</a>
 
-#### Excellent communicator, presenter, and mentor ####
+- #### Excellent communicator, presenter, and mentor ####
 
-#### Self-reliant individual and significantly contributory team member ####
+- #### Self-reliant individual and significantly contributory team member ####
 
-#### Fast learner, effective timekeeping skills, and experienced project management ####
-- 
+- #### Fast learner, effective timekeeping skills, and experienced project management ####
+
 
 ## <a name="education">Where I've been learning (Education) 📖</a>
 
