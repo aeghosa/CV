@@ -1,7 +1,7 @@
 <h1 align="center"> Eghosa Edobor - Junior Developer</h1>
 
 ##  “...Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz (1986 ~ 2013)</a>
--------
+
 #
 
 [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
