@@ -164,5 +164,8 @@ Modules of relevance:
 ## <a name="interests">When I'm not coding (Interests)</a>
 
 - 🚴
-- ![image](https://user-images.githubusercontent.com/103061130/199281137-0e091407-2d1d-4cf6-8475-59183ced1dad.png)
+- ⚽
+- 🎮
+- ⚡
+- 
 
