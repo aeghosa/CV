@@ -158,6 +158,10 @@ Helped curate online resource platform from early stage
         
 **[United Nations, UNAIDS](https://www.unaids.org/en)** (Jul 2016 to Dec 2016)   
 *Associate Inten*
+- Investigated feasibility of automatically controlling building facade shading using real-time measurement of
+facial reactions to disability glare from direct sunlight, using webcam, OpenFace software and wearable
+sensors
+- Informed further ongoing research into Occupant-Centered building design and visual comfort optimisation.
  
 
 
