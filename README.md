@@ -147,20 +147,20 @@ Helped curate online resource platform from early stage
         
 - Built front end interactive website using HTML & CSS attracting 250 more daily active users
 - Improved engagement in discipline meetings by standardizing format to ensure consistent inclusion of all sub-teams.
-        
-**[United Nations, World Health Organisation](https://www.who.int/)** (Feb 2016 to June 2016)   
-*Associate Inten*
-- Group project to design and prototype a device to train medical personnel in an oesophageal cancer
-detection procedure
-- Personal role involved planning and optimising the physical design of the product, and manufacturing the
-prototype
-        
+                
 **[United Nations, UNAIDS](https://www.unaids.org/en)** (Jul 2016 to Dec 2016)   
 *Associate Inten*
 - Investigated feasibility of automatically controlling building facade shading using real-time measurement of
 facial reactions to disability glare from direct sunlight, using webcam, OpenFace software and wearable
 sensors
 - Informed further ongoing research into Occupant-Centered building design and visual comfort optimisation
+
+**[United Nations, World Health Organisation](https://www.who.int/)** (Feb 2016 to June 2016)   
+*Associate Inten*
+- Group project to design and prototype a device to train medical personnel in an oesophageal cancer
+detection procedure
+- Personal role involved planning and optimising the physical design of the product, and manufacturing the
+prototype
  
 
 
