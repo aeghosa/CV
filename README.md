@@ -95,7 +95,6 @@ Having previously venture into Law and Development, no other career could quite 
 |---        |---          |---   |---           |
 | [SpotiFive](https://github.com/meddydev/SpotiFive) | Leveraged Spotify’s API to pair programme music game |  | Ruby, Rails, HTML, CSS, Heroku |
 | [Acebook](https://github.com/karolina-codes/acebook-node-milton) | Co built social media app using Javascript, NodeJS, CSS, HTML |  | JavaScript, React, Express, Node.js, Jest, MongoDB, Heroku |
-| [F](https:) |  |  |  |
 
 
 For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=repositories).
