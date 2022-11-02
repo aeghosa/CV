@@ -108,7 +108,7 @@ For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=reposi
 - #### Fast learner, effective timekeeping skills, and experienced project management ####
 
 
-## <a  📖name="education">Where I've been learning (Education) 📖</a>
+## 📖<a  name="education">Where I've been learning (Education) 📖</a>
 
 
 #### [Makers Academy](https://makers.tech/) (May to Sep 2022)
