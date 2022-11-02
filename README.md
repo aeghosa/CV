@@ -89,7 +89,7 @@ Having previously venture into Law and Development, no other career could quite 
 </p>
 
 
-## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
+## 📁 <a name="projects">What I've been working on (Projects) 📁</a>
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
@@ -99,7 +99,7 @@ Having previously venture into Law and Development, no other career could quite 
 
 For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=repositories).
 
-## <a name="skills">What I bring to the table (Skills) 👏</a>
+## 👏 <a name="skills">What I bring to the table (Skills) 👏</a>
 
 - #### Excellent communicator, presenter, and mentor ####
 
@@ -108,7 +108,7 @@ For more, please see my [GitHub repo list](https://github.com/aeghosa?tab=reposi
 - #### Fast learner, effective timekeeping skills, and experienced project management ####
 
 
-## 📖<a  name="education">Where I've been learning (Education) 📖</a>
+## 📖 <a  name="education">Where I've been learning (Education) 📖</a>
 
 
 #### [Makers Academy](https://makers.tech/) (May to Sep 2022)
@@ -132,7 +132,7 @@ Modules of relevance:
 - abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 
 
-## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
+## 💼 <a name="experience">Where I've been contributing (Experience) 💼</a>
 
 **[Lloyds Banking Group](https://www.unaids.org/en)** (Nov 2019 to January 2021)    
 *Technology Risk Associate*  
